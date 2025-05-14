@@ -5,7 +5,7 @@ Why
 프로젝트에 Language Model이 필요하다.   
 
 What  
-Lamma Model은 Language Model이고 오픈 소스이다.   
+LLama Model은 Language Model이고 오픈 소스이다.   
 
 How  
 [NVIDIA API](https://build.nvidia.com/models) 모델을 사용 가능하다.   
