@@ -4,6 +4,7 @@
 
 https://github.com/marketplace/models/azure-openai/gpt-4-1  
 
+![genai-toy](./vscode.png) ![genai-app](./streamlit.png)
 우선, 리포를 클론하고 가상환경을 구축한다.:  
 ```
 # Linux
